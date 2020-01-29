@@ -4,5 +4,5 @@ I made this app for learning purposes
 -Android Studio
 -Java
 -SQLite
--Content Provders
+-Content Providers
 -LOADERS 
